@@ -1,0 +1,30 @@
+LISTE DES TACHES
+
+- Use Case - TOUS
+- Maquette - TOUS
+	
+- Diagramme de classe CORE
+	- Partie (Liste de joueurs)
+	- Jeton
+	- Carte
+	- Dealer
+	- Petite Blinde
+	- Grosse Blinde
+	- Joueur
+		- Nom
+		- Tapis (Liste de jetons)
+		- Place	
+SYSTEME
+			- Distribuer les cartes
+			- Gérer le dealer
+			- Calculer le classement
+			- Calculer le tapis moyen
+			- Gérer le timer
+- EVENEMENT
+	- Coucher
+	- Suivre/Check
+	- Miser / Surenchérir
+	- Voir ses cartes
+- Developemment
+- Rapport
+- Rédiger les règles
